@@ -5,6 +5,7 @@
 ## Solve
 
 Tulisan diatas merupakan encoding dari ROT-47, kita bisa melakukan decode di [Cyberchef](https://gchq.github.io/CyberChef/)
+
 ![solved](images/solve.png)
 
 ```
