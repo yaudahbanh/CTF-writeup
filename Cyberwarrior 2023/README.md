@@ -5,4 +5,4 @@ Uconnect Cyberwarrior Hackathon 2023
 
 Team : bagi flagnya dong bang google
 
-![google](Quals/images/google.jpeg)
+![google](Quals/images/google1.jpeg)
