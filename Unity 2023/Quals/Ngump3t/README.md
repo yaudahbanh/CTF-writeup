@@ -1,6 +1,6 @@
 # Ngump3t
 
-> ![file.tar.gz](file/CIHHHHHH_bAKWAN.tar.gz)
+> [file.tar.gz](file/CIHHHHHH_bAKWAN.tar.gz)
 
 ## Solve
 

@@ -1,6 +1,6 @@
 # CPNS
 
-> ![chall.pcapng](file/ChallPcap.pcapng)
+> [chall.pcapng](file/ChallPcap.pcapng)
 
 ## Solve
 
